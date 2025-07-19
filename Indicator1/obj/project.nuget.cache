@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B7JR/ceaUEM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\binary\\source\\repos\\Indicator1\\Indicator1\\Indicator1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\binary\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.7\\microsoft.win32.systemevents.9.0.7.nupkg.sha512",
+    "C:\\Users\\binary\\.nuget\\packages\\system.drawing.common\\9.0.7\\system.drawing.common.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

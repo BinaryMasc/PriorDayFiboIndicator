@@ -1,0 +1,12 @@
+C:\Quantower_2\Quantower\Settings\Scripts\Indicators\Indicator1\Indicator1.deps.json
+C:\Quantower_2\Quantower\Settings\Scripts\Indicators\Indicator1\Indicator1.dll
+C:\Quantower_2\Quantower\Settings\Scripts\Indicators\Indicator1\Indicator1.pdb
+C:\Users\binary\source\repos\Indicator1\Indicator1\obj\Debug\Indicator1.csproj.AssemblyReference.cache
+C:\Users\binary\source\repos\Indicator1\Indicator1\obj\Debug\Indicator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binary\source\repos\Indicator1\Indicator1\obj\Debug\Indicator1.AssemblyInfoInputs.cache
+C:\Users\binary\source\repos\Indicator1\Indicator1\obj\Debug\Indicator1.AssemblyInfo.cs
+C:\Users\binary\source\repos\Indicator1\Indicator1\obj\Debug\Indicator1.csproj.CoreCompileInputs.cache
+C:\Users\binary\source\repos\Indicator1\Indicator1\obj\Debug\Indicator1.dll
+C:\Users\binary\source\repos\Indicator1\Indicator1\obj\Debug\refint\Indicator1.dll
+C:\Users\binary\source\repos\Indicator1\Indicator1\obj\Debug\Indicator1.pdb
+C:\Users\binary\source\repos\Indicator1\Indicator1\obj\Debug\ref\Indicator1.dll
